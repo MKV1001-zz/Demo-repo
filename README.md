@@ -8,5 +8,5 @@
 6. git add . 
 7. git commit -m "messsage"
 8. git branch -M main ( Creating a default branch called main)
-9. git remote add <git-rpeo url> (linking my git local repo with my github repo)
+9. git remote add origin <git-rpeo url> (linking my git local repo with my github repo)
 10. git push -u origin main (Push my commit)
